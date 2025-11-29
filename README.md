@@ -6,7 +6,7 @@
 
 ### 使用方法
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/你的用户名/scripts/main/change_ssh_port.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Null404-0/scripts/main/change_ssh_port.sh)
 ```
 
 ### 功能特性
