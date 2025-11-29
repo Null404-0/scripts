@@ -26,20 +26,20 @@
 ### 方法1: 直接在线执行（推荐）
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/你的用户名/scripts/main/change_ssh_port.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Null404-0/scripts/main/change_ssh_port.sh)
 ```
 
 或使用 wget:
 
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/你的用户名/scripts/main/change_ssh_port.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/Null404-0/scripts/main/change_ssh_port.sh)
 ```
 
 ### 方法2: 下载后执行
 
 ```bash
 # 下载脚本
-curl -O https://raw.githubusercontent.com/你的用户名/scripts/main/change_ssh_port.sh
+curl -O https://raw.githubusercontent.com/Null404-0/scripts/main/change_ssh_port.sh
 
 # 添加执行权限
 chmod +x change_ssh_port.sh
