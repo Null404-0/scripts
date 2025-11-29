@@ -31,8 +31,8 @@ clear_screen() {
 print_header() {
     echo -e "${CYAN}"
     echo "╔════════════════════════════════════════════════════════════╗"
-    echo "║          SSH 端口修改工具 v2.0                            ║"
-    echo "║          SSH Port Change Script                          ║"
+    echo "║          SSH 端口修改工具 v2.0                              ║"
+    echo "║          SSH Port Change Script                            ║"
     echo "╚════════════════════════════════════════════════════════════╝"
     echo -e "${NC}"
 }
